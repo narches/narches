@@ -1,7 +1,6 @@
-#<h1 align="center">                                                                              Joseph Nnachi  </h1>
-<p align="right"> narchiosah@gmail.com | <a href="https://github.com/yourusername">GitHub</a> | <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> | <a href="https://youtube.com/@yourchannel">YouTube</a>
+<h1 align="center">                                                                              Joseph Nnachi  </h1>
+<p align="center">  <a href="mailto:elu22001@gbyui.edu">byui.edu</a> | <a href="https://github.com/yourusername">GitHub</a> | <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> | <a href="https://youtube.com/@yourchannel">YouTube</a>
 </p>
----
 
 ## Education
 **Bachelor of Science, Applied Technology**                    |                         *Brigham Young University–Idaho*                    |                         Rexburg, Idaho, USA 
