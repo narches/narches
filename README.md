@@ -1,22 +1,18 @@
-#                                                                              Joseph Nnachi  
-📧 narchjosephs@gmail.com | [GitHub](https://github.com/narches) | [LinkedIn](https://linkedin.com/in/jozephnnachi) | [YouTube](https://youtube.com/@narches)
+#<h1 align="center">                                                                              Joseph Nnachi  </h1>
+ <p align="center"> narchjosephs@gmail.com | [GitHub](https://github.com/narches) | [LinkedIn](https://linkedin.com/in/jozephnnachi) | [YouTube](https://youtube.com/@narches)</p>
 
 ---
 
 ## Education
-
-**Bachelor of Science, Applied Technology**                                                                             *Brigham Young University–Idaho*  
-                                                                                                                                Rexburg, Idaho, USA  
+**Bachelor of Science, Applied Technology**                              -------                                               *Brigham Young University–Idaho*  
+  <p align="right"> Rexburg, Idaho, USA </p>  
 
 
 ---
 
 ## Skills & Certifications
-
 - **Certifications:**  
-  [Meta Software Engineer Cert.](https://www.coursera.org/professional-certificates/meta-back-end-developer) |  
-  [IBM Java Engineer Cert.](https://www.coursera.org/professional-certificates/ibm-backend-development) |  
-  [Technoon Start-Up Entrepreneurship Cert.](https://technoon.com)
+  [Meta Software Engineer Cert.](https://www.coursera.org/professional-certificates/meta-back-end-developer) | [IBM Java Engineer Cert.](https://www.coursera.org/professional-certificates/ibm-backend-development) |  [Technoon Start-Up Entrepreneurship Cert.](https://technoon.com)
 
 - **Programming Languages:**  
   C#, Java, Kotlin, Python, R, JavaScript/TypeScript, PHP, SQL
@@ -35,9 +31,7 @@
 ## Experience
 
 ### **Software Engineer Intern (AI/ML) – Remote**  
-*TechX Lab, Inc*  
-📍 Atlanta, Georgia, USA  
-🗓️ Dec. 2025 – Till Date  
+*TechX Lab, Inc*  |  Atlanta, Georgia, USA | Dec. 2025 – Till Date  
 
 - Built Python-based AI tools using **Hugging Face Transformers** to infer user emotional state from text, with potential to improve customer service feedback by up to **50%**.  
 - Performed data analysis in Python to analyze user behavior and generate AI-driven insights, improving data quality and downstream model performance.
@@ -45,9 +39,7 @@
 ---
 
 ### **Support Engineer (Supervisor) – Remote**  
-*Bloom – Serving BYU-Pathway*  
-📍 Utah, USA  
-🗓️ Feb. 2021 – Sep. 2024  
+*Bloom – Serving BYU-Pathway*  |  Utah, USA  |   Feb. 2021 – Sep. 2024  
 
 - Diagnosed platform issues for **3,000+ users** using logs and API analysis, cutting repeat incidents by **35%**.  
 - Built KPI dashboards and analytics loops that exposed bottlenecks, boosting first-contact resolution and cutting ticket backlog by **85%**.  
@@ -57,9 +49,7 @@
 ---
 
 ### **IT Support Engineer / Software Developer (Hybrid)**  
-*Otech Microfinance Bank Limited (FinTech)*  
-📍 Abuja, Nigeria  
-🗓️ Aug. 2022 – Sep. 2023  
+*Otech Microfinance Bank Limited (FinTech)*  |  Abuja, Nigeria  |  Aug. 2022 – Sep. 2023  
 
 - Developed mobile banking features (**Kotlin / Java + Angular + REST**), reducing failed transactions by **40%**.  
 - Optimized SQL queries and schemas, cutting latency from **~900ms to ~200ms**.  
@@ -68,10 +58,7 @@
 ---
 
 ## Projects
-
-### **Meta Software Engineer Certification Projects**  
-🗓️ Jun. 2025 – Oct. 2025  
-
+### **Meta Software Engineer Certification Projects**  |  Jun. 2025 – Oct. 2025  
 - Built **Lemon Android App** using Kotlin, MVVM architecture, LiveData, Room persistence, and lifecycle-aware components  
   → [Lemon App (Android)](https://github.com/yourusername/lemon-android)
 
@@ -81,27 +68,18 @@
 
 - **Database Engineering Project**  
   → [LemonDB](https://github.com/yourusername/lemondb)
-
 ---
 
-### **Brigham Young University–Idaho Projects**  
-🗓️ Apr. 2022 – Oct. 2025  
-
+### **Brigham Young University–Idaho Projects**  |  Apr. 2022 – Oct. 2025  
 - **C# (.NET Framework)** – Built modular desktop software using OOP, event-driven programming, and layered architecture  
   → [Yola](https://github.com/yourusername/yola)
-
 ---
 
-### **IBM Java Certification Projects**  
-🗓️ Jun. 2025 – Dec. 2025  
-
+### **IBM Java Certification Projects**  |  Jun. 2025 – Dec. 2025  
 - **Java (Spring Framework)** – Built modular smart clinic software using Spring Boot, Thymeleaf, JavaScript, CSS, MySQL, MongoDB, and layered architecture  
   → [Aegis](https://github.com/yourusername/aegis)
-
 ---
 
-### **Personal Project – LemonPay (Kotlin, Ktor)**  
-🗓️ Nov. 2025  
-
+### **Personal Project – LemonPay (Kotlin, Ktor)**  |   Nov. 2025 - Dec 31st, 2025
 - Smart payment software using Spring for backend, MongoDB & Oracle, and layered architecture  
   → [LemonPay](https://github.com/yourusername/lemonpay)
