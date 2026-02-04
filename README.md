@@ -1,11 +1,10 @@
 #<h1 align="center">                                                                              Joseph Nnachi  </h1>
- <p align="center"> narchjosephs@gmail.com | [GitHub](https://github.com/narches) | [LinkedIn](https://linkedin.com/in/jozephnnachi) | [YouTube](https://youtube.com/@narches)</p>
-
+<p align="right"> narchiosah@gmail.com | <a href="https://github.com/yourusername">GitHub</a> | <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> | <a href="https://youtube.com/@yourchannel">YouTube</a>
+</p>
 ---
 
 ## Education
-**Bachelor of Science, Applied Technology**                              -------                                               *Brigham Young University–Idaho*  
-  <p align="right"> Rexburg, Idaho, USA </p>  
+**Bachelor of Science, Applied Technology**                    |                         *Brigham Young University–Idaho*                    |                         Rexburg, Idaho, USA 
 
 
 ---
@@ -16,7 +15,7 @@
 
 - **Programming Languages:**  
   C#, Java, Kotlin, Python, R, JavaScript/TypeScript, PHP, SQL
-
+  
 - **Frameworks & Libraries:**  
   Spring & Spring Boot, Django, Node.js, Next.js 14+, React & React Native, .NET Stacks
 
@@ -60,26 +59,26 @@
 ## Projects
 ### **Meta Software Engineer Certification Projects**  |  Jun. 2025 – Oct. 2025  
 - Built **Lemon Android App** using Kotlin, MVVM architecture, LiveData, Room persistence, and lifecycle-aware components  
-  → [Lemon App (Android)](https://github.com/yourusername/lemon-android)
+  → [Lemon App (Android)](https://github.com/narches/lemon-android)
 
 - **Backend Project** – Python (Django REST) + SQL + React  
   Built RESTful endpoints for menu, reservations, auth, and pagination; wrote unit tests; connected a React UI  
-  → [Little Lemon](https://github.com/yourusername/little-lemon)
+  → [Little Lemon](https://github.com/narches/littlelemon)
 
 - **Database Engineering Project**  
-  → [LemonDB](https://github.com/yourusername/lemondb)
+  → [LemonDB](https://github.com/narches/lemondb)
 ---
 
 ### **Brigham Young University–Idaho Projects**  |  Apr. 2022 – Oct. 2025  
 - **C# (.NET Framework)** – Built modular desktop software using OOP, event-driven programming, and layered architecture  
-  → [Yola](https://github.com/yourusername/yola)
+  → [Yola](https://github.com/narches/yola)
 ---
 
 ### **IBM Java Certification Projects**  |  Jun. 2025 – Dec. 2025  
 - **Java (Spring Framework)** – Built modular smart clinic software using Spring Boot, Thymeleaf, JavaScript, CSS, MySQL, MongoDB, and layered architecture  
-  → [Aegis](https://github.com/yourusername/aegis)
+  → [Aegis](https://github.com/yourusername/aeclini)
 ---
 
 ### **Personal Project – LemonPay (Kotlin, Ktor)**  |   Nov. 2025 - Dec 31st, 2025
-- Smart payment software using Spring for backend, MongoDB & Oracle, and layered architecture  
+- Smart payment software using Spring for backend, MongoDB & Oracle, and a layered architecture  
   → [LemonPay](https://github.com/yourusername/lemonpay)
