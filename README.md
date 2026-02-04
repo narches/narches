@@ -5,9 +5,8 @@
 
 ## Education
 
-**Bachelor of Science, Applied Technology**  
-*Brigham Young University–Idaho*  
-Rexburg, Idaho, USA  
+**Bachelor of Science, Applied Technology**                                                                             *Brigham Young University–Idaho*  
+                                                                                                                                Rexburg, Idaho, USA  
 
 
 ---
