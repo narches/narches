@@ -1,5 +1,5 @@
 <h1 align="center">                                                                              Joseph Nnachi  </h1>
-<p align="center">  <a href="mailto:elu22001@gbyui.edu">byui.edu</a> | <a href="https://github.com/yourusername">GitHub</a> | <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> | <a href="https://youtube.com/@yourchannel">YouTube</a>
+<p align="center">  <a href="mailto:elu22001@byui.edu">byui.edu</a> | <a href="https://github.com/narches/narches">GitHub</a> | <a href="http://www.linkedin.com/in/jozephnnachi">LinkedIn</a> | <a href="https://youtube.com/@narches?si=ufxO7W0lT_4ziHoY">YouTube</a>
 </p>
 
 ## Education
@@ -10,16 +10,16 @@
 
 ## Skills & Certifications
 - **Certifications:**  
-  [Meta Software Engineer Cert.](https://www.coursera.org/professional-certificates/meta-back-end-developer) | [IBM Java Engineer Cert.](https://www.coursera.org/professional-certificates/ibm-backend-development) |  [Technoon Start-Up Entrepreneurship Cert.](https://technoon.com)
+  [Meta Software Engineer Cert.](https://www.credly.com/badges/9c20f1a2-bf19-4fe1-ba06-dd3f5f5ce34e/public_url) | [IBM Java Engineer Cert.](https://www.credly.com/badges/f556dab5-9d02-492f-bb6b-40c40a233c68/public_url) |  [Technion Start-Up Entrepreneurship Cert.](https://technoon.com) | [IBM AI Engineer Cert.](https://www.credly.com/badges/56776f2b-20a2-4747-9e4c-a15ee47f316d/public_url)
 
 - **Programming Languages:**  
   C#, Java, Kotlin, Python, R, JavaScript/TypeScript, PHP, SQL
   
 - **Frameworks & Libraries:**  
-  Spring & Spring Boot, Django, Node.js, Next.js 14+, React & React Native, .NET Stacks
+  Spring & Spring Boot, Django, Node.js, Next.js 14+, React & React Native, .NET Stacks, LangChain, RAG
 
 - **Databases:**  
-  MySQL, PostgreSQL, MongoDB, Microsoft SQL
+  MySQL, PostgreSQL, MongoDB, Microsoft SQL, Oracle SQL
 
 - **Tools:**  
   Git, Docker, Kubernetes, CI/CD, Postman, JUnit, Selenium, PyTest, Tableau, Kaggle, Figma, LucidChart
@@ -80,4 +80,4 @@
 
 ### **Personal Project – LemonPay (Kotlin, Ktor)**  |   Nov. 2025 - Dec 31st, 2025
 - Smart payment software using Spring for backend, MongoDB & Oracle, and a layered architecture  
-  → [LemonPay](https://github.com/yourusername/lemonpay)
+  → [LemonPay](https://www.loom.com/share/8a93d4630a484bd9bd5a4af826c08f11)
