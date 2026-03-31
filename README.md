@@ -31,8 +31,9 @@
 ### **Software Engineer Intern (AI/ML) – Remote**  
 *TechX Lab, Inc*  |  Atlanta, Georgia, USA | Dec. 2025 – Till Date  
 
-- Built Python-based AI tools using **Hugging Face Transformers** to infer user emotional state from text, with potential to improve customer service feedback by up to **50%**.  
-- Performed data analysis in Python to analyze user behavior and generate AI-driven insights, improving data quality and downstream model performance.
+- Architected and built an AI startup evaluation agent using an MCP-style (Model–Context–Tools) architecture, leveraging LLM reasoning, external data sources, and tool-based decision loops to analyze startup ideas, competitors, and market viability with potential to improve business idea validation by up to **50%**.  
+- Developed intelligent orchestration pipelines integrating web search, vector embeddings, and similarity models to identify comparable startups, extract market signals, and generate data-driven validation scores for early-stage business concepts.   [Adviseur](https://adviseur-438275263908.europe-west1.run.app/)
+- Engineered modular backend services in Python (FastAPI) to support agent workflows, structured reasoning outputs (JSON), and scalable data pipelines for competitor analysis, clustering, and heuristic-based startup scoring.
 
 ---
 
