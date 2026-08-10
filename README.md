@@ -10,7 +10,7 @@
 
 ## Skills & Certifications
 - **Certifications:**  
-  [Meta Software Engineer Cert.](https://www.credly.com/badges/9c20f1a2-bf19-4fe1-ba06-dd3f5f5ce34e/public_url) | [IBM Java Engineer Cert.](https://www.credly.com/badges/f556dab5-9d02-492f-bb6b-40c40a233c68/public_url) |  [Technion Start-Up Entrepreneurship Cert.](https://technoon.com) | [IBM AI Engineer Cert.](https://www.credly.com/badges/56776f2b-20a2-4747-9e4c-a15ee47f316d/public_url)
+  [Meta Software Engineer Cert.](https://www.credly.com/badges/9c20f1a2-bf19-4fe1-ba06-dd3f5f5ce34e/public_url) | [IBM Java Engineer Cert.](https://www.credly.com/badges/f556dab5-9d02-492f-bb6b-40c40a233c68/public_url) |  [John's Hopkins PjMgt Cert.](https://coursera.org/share/790427fa02a5b22ddf7fb31cff0b651d) | [IBM AI Engineer Cert.](https://www.credly.com/badges/56776f2b-20a2-4747-9e4c-a15ee47f316d/public_url) | [Network Cert.](https://www.credly.com/badges/677dac32-7658-42b8-9c3d-6d7b48997ca0/public_url) | [Google Data Analytics Cert.]([https://coursera.org/share/790427fa02a5b22ddf7fb31cff0b651d](https://coursera.org/share/79f32b38c4d721271157a4d0ba52b51a)) 
 
 - **Programming Languages:**  
   C#, Java, Kotlin, Python, R, JavaScript/TypeScript, PHP, SQL
