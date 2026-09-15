@@ -27,9 +27,14 @@
 ---
 
 ## Experience
+### **Technical Team Member (Remote)**     
+ *Qorbs* (Start-Up) | Abuja, NGA | Apr. 2026 – Till Date
+-  Engineering a scalable financial enterprise platform Core Banking System with intelligent workflow automation using Java, Jakarta EE, Rust, Python and Oracle CDB, projected to improve operational productivity by up to 50%. 
+-  Developed full-stack intelligent mobile banking integrating banking APIs to enhance transaction processing, personalized financial insights, and user productivity using Android SDK, Kotlin, Ktor Client, Spring Boot, and MongoDB. [LemonPay](https://wwww.loom.com/share/8a93d4630a484bd9bd5a4af826c08f11)
+-  Engineered modular AI services in Kotlin to process captured application screens, generate structured page context signals, and deliver real-time LLM-powered summaries with actionable user guidance.  
 
 ### **Software Engineer Intern (AI/ML) – Remote**  
-*TechX Lab, Inc*  |  Atlanta, Georgia, USA | Dec. 2025 – Till Date  
+*TechX Lab, Inc*  |  Atlanta, Georgia, USA | Dec. 2025 – Apr. 2026  
 
 - Architected and built an AI startup evaluation agent using an MCP-style (Model–Context–Tools) architecture, leveraging LLM reasoning, external data sources, and tool-based decision loops to analyze startup ideas, competitors, and market viability with potential to improve business idea validation by up to **50%**.  
 - Developed intelligent orchestration pipelines integrating web search, vector embeddings, and similarity models to identify comparable startups, extract market signals, and generate data-driven validation scores for early-stage business concepts.   [Adviseur](https://adviseur-438275263908.europe-west1.run.app/)
